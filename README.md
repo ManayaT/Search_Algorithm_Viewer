@@ -2,6 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/python-lightblue) ![Static Badge](https://img.shields.io/badge/Pyside6-lightgreen) 
 
 # Search_Algorithm_Viewer
+![how_to](https://github.com/user-attachments/assets/41f38169-334e-4c58-bedd-b39e1e9651c9)
 
 ## 開発人数
 1人
